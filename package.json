@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
+    "react-component-export-image": "^1.0.6",
     "react-csv": "^2.0.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-to-pdf": "0.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
