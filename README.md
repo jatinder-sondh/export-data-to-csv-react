@@ -1,11 +1,7 @@
-# export-data-to-csv-react
-Export data to CSV in React
+# Export data to csv
+Build in React,
+Deployed on AWS
 
-## Quick Start
+![image](https://github.com/user-attachments/assets/0c6322d5-4844-4cd7-96ed-491164051ea0)
 
-Follow the below steps to run the project.
-
-1. Clone repository
-2. Run `npm i` command to install dependencies
-3. Execute `npm start` command to run the project
 
